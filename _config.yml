@@ -1,10 +1,1 @@
 theme: pages-themes-hacker-b5d117c
-title: [resiwole's BLOG]
-description: [骚年，是谁指引你来到这个蒟蒻的BLOG]
-url: [wzhresiwole.github.io]
-author:
-  name: [RESIWOLE]
-  url: [wzhresiwole.github.io]
-
-paginate: [Number of posts in one paginated section (default: 3)]
-owner: [一个弱得不能再弱的无名小卒]
